@@ -1,0 +1,5 @@
+Template-Guice-Jersey-Tomcat
+
+  This is a simple template project that shows how to set up a Maven based
+  project that uses Google Guice and Jersey based RESTful services inside
+  a Servlet container such as Apache Tomcat.
